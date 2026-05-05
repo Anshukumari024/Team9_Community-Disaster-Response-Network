@@ -4,9 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 node_modules
-backend/src/main/java/com/example/cdrn/service
-backend/src/main/java/com/example/cdrn/security
-backend/src/main/java/com/example/cdrn/websocket
+
 ### STS ###
 .apt_generated
 .classpath
